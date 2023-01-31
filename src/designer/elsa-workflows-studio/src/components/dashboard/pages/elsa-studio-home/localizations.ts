@@ -34,5 +34,11 @@ export const resources = {
       'Welcome': 'Bem vindo ao {{title}}',
       'Tagline': 'Use o painel de controlo para gerenciar tudo.'
     }
-  }
+  },
+  'es-ES': {
+    'default': {
+      'Welcome': 'Bienvenido a {{title}}',
+      'Tagline': 'Usa el panel de control para administrarlo todo.'
+    }
+  },
 };

@@ -112,5 +112,24 @@ export const resources = {
         'Message': 'Tem certeza que pretende apagar permanentemente este fluxo, incluindo todas as suas instâncias?'
       }
     }
+  },
+  'es-ES': {
+    'default': {
+      'Publishing': 'Publicando...',
+      'Published': 'Publicado',
+      "ActivityContextMenu": {
+        "Edit": "Editar",
+        "Delete": "Eliminar",
+        "DeleteSelected": "Eliminar seleccionado"
+      },
+      "ConnectionContextMenu": {
+        "Paste": "Pegar",
+      },
+      'Restart': 'Reiniciar',
+      'DeleteConfirmationModel': {
+        'Title': 'Eliminar definición de flujo',
+        'Message': '¿Está seguro de que desea eliminar este flujo de forma permanente, incluidas todas sus instancias?'
+      }
+    }
   }
 };

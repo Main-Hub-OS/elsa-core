@@ -58,5 +58,15 @@ export const resources = {
       'RestartInstanceConfirmationModel.Title': 'O fluxo já está em execução',
       'RestartInstanceConfirmationModel.Message': 'Parece que já existe uma instância deste fluxo a correr. Gostarias de pará-la e começar uma nova?'
     }
-  }
+  },
+  'es-ES': {
+    default: {
+      'ExecuteWorkflow': 'Ejecutar flujo',
+      'StopWorkflow': 'Detener flujo',
+      'EntryEndpoint': 'Endpoint de entrada',
+      'Status': 'Estado',
+      'RestartInstanceConfirmationModel.Title': 'El flujo ya se está ejecutando',
+      'RestartInstanceConfirmationModel.Message': 'Parece que ya hay otra instancia de este flujo en ejecución. ¿Te gustaría detenerlo y comenzar uno nuevo?'
+    }
+  },
 };

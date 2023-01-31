@@ -64,5 +64,16 @@ export const resources = {
       'Results': 'resultados',
       'Display': '{{template}}'
     }
+  },
+  'es-ES': {
+    'default': {
+      'Previous': 'Previa',
+      'Next': 'Proxima',
+      'From': 'De',
+      'To': 'a',
+      'Of': 'de',
+      'Results': 'resultados',
+      'Display': '{{template}}'
+    }
   }
 };

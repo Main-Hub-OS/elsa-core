@@ -34,5 +34,11 @@ export const resources = {
       'Title': 'Definições Webhook',
       'CreateButton': 'Criar Webhook'
     }
-  }
+  },
+  'es-ES': {
+    default: {
+      'Title': 'Definiciones de Webhook',
+      'CreateButton': 'Crear Webhook'
+    }
+  },
 };

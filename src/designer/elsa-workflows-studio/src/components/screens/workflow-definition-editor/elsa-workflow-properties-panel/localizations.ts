@@ -76,5 +76,18 @@ export const resources = {
       'Published': 'Publicado',
       'Draft': 'Rascunho'
     }
-  }
+  },
+  'es-ES': {
+    default: {
+      'Name': 'Nombre',
+      'DisplayName': 'Nombre para mostrar',
+      'Untitled': 'Intitulado',
+      'Id': 'Id',
+      'Version': 'Ultima Versión',
+      'PublishedVersion': 'Versión Publicada',
+      'Status': 'Estado',
+      'Published': 'Publicado',
+      'Draft': 'Borrador',
+    }
+  },
 };

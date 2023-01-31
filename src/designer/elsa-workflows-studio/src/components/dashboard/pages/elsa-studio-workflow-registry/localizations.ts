@@ -34,5 +34,11 @@ export const resources = {
       'Title': 'Registo de fluxos',
       'CreateButton': 'Criar fluxo'
     }
-  }
+  },
+  'es-ES': {
+    default: {
+      'Title': 'Registro de flujos',
+      'CreateButton': 'Crear flujo'
+    }
+  },
 };

@@ -28,5 +28,10 @@ export const resources = {
     default: {
       'Title': 'Instâncias de fluxos'
     }
-  }
+  },
+  'es-ES': {
+    default: {
+      'Title': 'Instancias de flujos'
+    }
+  },
 };

@@ -196,5 +196,38 @@ export const resources = {
         }
       }
     }
-  }
+  },
+  'es-ES': {
+    'default': {
+      "Buttons": {
+        'Save': 'Salvar',
+        'Cancel': 'Cancelar'
+      },
+      'Tabs': {
+        'Properties': {
+          'Name': 'Propiedades'
+        },
+        'Common': {
+          'Name': 'Común',
+          'Fields': {
+            'Name': {
+              'Label': 'Nombre',
+              'Hint': 'El nombre técnico de la actividad.'
+            },
+            'DisplayName': {
+              'Label': 'Nombre para mostrar',
+              'Hint': 'El nombre descriptivo de la actividad.'
+            },
+            'Description': {
+              'Label': 'Descripción',
+              'Hint': 'Una descripción personalizada para esta actividad.'
+            }
+          }
+        },
+        'Storage': {
+          'Name': 'Almacenamiento'
+        }
+      }
+    }
+  },
 };

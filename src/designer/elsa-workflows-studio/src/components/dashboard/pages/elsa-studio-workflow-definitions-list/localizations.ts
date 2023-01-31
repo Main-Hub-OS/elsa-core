@@ -34,5 +34,11 @@ export const resources = {
       'Title': 'Fluxos',
       'CreateButton': 'Criar fluxo'
     }
+  },
+  'es-ES': {
+    default: {
+      'Title': 'Flujos',
+      'CreateButton': 'Crear flujo'
+    }
   }
 };

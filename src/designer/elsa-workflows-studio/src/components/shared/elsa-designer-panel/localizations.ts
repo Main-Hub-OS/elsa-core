@@ -28,5 +28,15 @@ export const resources = {
       'BottomTop': 'Baixo para Cima',
       'RightLeft': 'Direita para Esquerda',
     }
-  }
+  },
+  'es-ES': {
+    default: {
+      'workflowLayoutName': 'Diseño de flujo',
+      'workflowLayoutDescription': 'Determina la dirección en la que se organizan las actividades.',
+      'TopBottom': 'De arriba hacia abajo',
+      'LeftRight': 'De izquierda a derecha',
+      'BottomTop': 'De abajo hacia arriba',
+      'RightLeft': 'De derecha a izquierda',
+    }
+  },
 };

@@ -84,5 +84,19 @@ export const resources = {
       'Search': "Procurar",
       'Unpublish': 'Cancelar publicação',
     }
-  }
+  },
+  'es-ES': {
+    'default': {
+      'Name': 'Nombre',
+      'Instances': 'Instancia',
+      'LatestVersion': 'Ultima Versión',
+      'PublishedVersion': 'Versión Publicada',
+      'Edit': 'Editar',
+      'Delete': 'Eliminar',
+      'DeleteConfirmationModel': {
+        'Title': 'Eliminar definición de flujo',
+        'Message': '¿Está seguro de que desea eliminar de forma permanente este flujo de trabajo, incluidas todas sus instancias?'
+      }
+    }
+  },
 };

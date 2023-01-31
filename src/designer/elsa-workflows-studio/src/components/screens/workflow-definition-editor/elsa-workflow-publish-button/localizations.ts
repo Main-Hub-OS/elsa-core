@@ -52,5 +52,14 @@ export const resources = {
       'Import': 'Importar',
       'Export': 'Exportar',
     }
+  },
+  'es-ES': {
+    'default': {
+      'Publish': 'Publicar',
+      'Publishing': 'Publicando',
+      'Unpublish': 'Anular la Publicación',
+      'Import': 'Importar',
+      'Export': 'Exportar',
+    }
   }
 };

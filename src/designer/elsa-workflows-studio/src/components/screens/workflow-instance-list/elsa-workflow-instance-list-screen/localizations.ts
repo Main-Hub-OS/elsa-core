@@ -405,5 +405,87 @@ export const resources = {
         }
       }
     }
-  }
+  },
+  'es-ES': {
+    'default': {
+      'Title': 'Instancias de flujos',
+      'Search': 'Busca',
+      'Untitled': 'Untitled',
+      'Table': {
+        'Id': 'ID',
+        'CorrelationId': 'ID de Correlación',
+        'Workflow': 'Flujo',
+        'Version': 'Versión',
+        'InstanceName': 'Nombre de Instancia',
+        'Status': 'Estado',
+        'Created': 'Creado',
+        'Finished': 'Acabado',
+        'LastExecuted': 'Última Ejecución',
+        'Faulted': 'Fallada',
+        'ContextMenu': {
+          'View': 'Vista',
+          'Cancel': 'Cancelar',
+          'Delete': 'Eliminar',
+          'Retry': 'Intentar nuevamente'
+        }
+      },
+      'CancelDialog': {
+        'Title': 'Cancelar instancia de flujo',
+        'Message': '¿Estás seguro de que deseas cancelar esta instancia de flujo?'
+      },
+      'DeleteDialog': {
+        'Title': 'Eliminar instancia de flujo',
+        'Message': '¿Estás seguro de que deseas eliminar de forma permanente esta instancia de flujo?'
+      },
+      'BulkCancelDialog': {
+        'Title': 'Cancelar instancias de flujo seleccionadas',
+        'Message': '¿Está seguro de que desea cancelar todas las instancias de flujo seleccionadas?'
+      },
+      'BulkDeleteDialog': {
+        'Title': 'Eliminar instancias de flujo seleccionadas',
+        'Message': '¿Está seguro de que desea eliminar de forma permanente todas las instancias de flujo seleccionadas?'
+      },
+      'BulkRetryDialog': {
+        'Title': 'Reintentar instancias de flujo seleccionadas',
+        'Message': '¿Está seguro de que desea volver a intentar todas las instancias de flujo seleccionadas?'
+      },
+      'Pager': {
+        'Display': 'Mostrando {{Start}} a {{End}} de {{Results}} resultados'
+      },
+      'BulkActions': {
+        'Title': 'Acciones masivas',
+        'Actions': {
+          'Cancel': 'Cancelar',
+          'Delete': 'Eliminar',
+          'Retry': 'Intentar nuevamente'
+        }
+      },
+      'Filters': {
+        'Workflow': {
+          'Label': 'Flujo',
+          'All': 'Todas'
+        },
+        'Status': {
+          'All': 'Todas',
+          'Label': 'Estado',
+          'Running': 'Corriendo',
+          'Idle': 'Inactiva',
+          'Suspended': 'Suspendida',
+          'Faulted': 'Fallada',
+          'Finished': 'Acabada',
+          'Cancelled': 'Cancelada'
+        },
+        'Sort': {
+          'Label': 'Ordenar',
+          'SelectedLabel': 'Ordenar por: {{Key}}',
+          'Finished': 'Acabado',
+          'LastExecuted': 'Última Ejecución',
+          'Started': 'Comenzó'
+        },
+        'PageSize': {
+          'SelectedLabel': 'Tamaño de página: {{Size}}',
+        }
+      }
+    }
+  },
 };

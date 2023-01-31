@@ -34,5 +34,11 @@ export const resources = {
       'Yes': 'Sim',
       'No': 'Não'
     }
+  },
+  'es-ES': {
+    'default': {
+      'Yes': 'Sí',
+      'No': 'No'
+    }
   }
 };
