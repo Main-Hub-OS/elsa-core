@@ -49,4 +49,14 @@ export const resources = {
       'RestartInstanceConfirmationModel.Message': 'Es sieht so aus, als würde der Ablauf bereits laufen. Wollen Sie den Ablauf stoppen und einen neuen starten?'
     }
   },
+  'pt-PT': {
+    default: {
+      'ExecuteWorkflow': 'Executar fluxo',
+      'StopWorkflow': 'Parar fluxo',
+      'EntryEndpoint': 'Endpoint de entrada',
+      'Status': 'Estado',
+      'RestartInstanceConfirmationModel.Title': 'O fluxo já está em execução',
+      'RestartInstanceConfirmationModel.Message': 'Parece que já existe uma instância deste fluxo a correr. Gostarias de pará-la e começar uma nova?'
+    }
+  }
 };

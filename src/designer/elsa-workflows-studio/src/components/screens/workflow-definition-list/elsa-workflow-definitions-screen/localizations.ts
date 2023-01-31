@@ -69,4 +69,20 @@ export const resources = {
       }
     }
   },
+  'pt-PT': {
+    'default': {
+      'Name': 'Nome',
+      'Instances': 'Instâncias',
+      'LatestVersion': 'Última Versão',
+      'PublishedVersion': 'Versão Publicada',
+      'Edit': 'Editar',
+      'Delete': 'Apagar',
+      'DeleteConfirmationModel': {
+        'Title': 'Apagar fluxo',
+        'Message': 'Tem certeza que pretende apagar permanentemente este fluxo, incluindo todas as suas instâncias?'
+      },
+      'Search': "Procurar",
+      'Unpublish': 'Cancelar publicação',
+    }
+  }
 };

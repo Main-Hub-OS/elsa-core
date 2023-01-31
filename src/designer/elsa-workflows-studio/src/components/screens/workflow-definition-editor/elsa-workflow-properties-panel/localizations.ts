@@ -64,4 +64,17 @@ export const resources = {
       'Draft': 'Entwurf'
     }
   },
+  'pt-PT': {
+    default: {
+      'Name': 'Nome',
+      'DisplayName': 'Nome de exibição',
+      'Untitled': 'Sem Título',
+      'Id': 'Id',
+      'Version': 'Última Versão',
+      'PublishedVersion': 'Versão Publicada',
+      'Status': 'Estado',
+      'Published': 'Publicado',
+      'Draft': 'Rascunho'
+    }
+  }
 };

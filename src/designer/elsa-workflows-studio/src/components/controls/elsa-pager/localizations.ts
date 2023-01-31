@@ -54,4 +54,15 @@ export const resources = {
       'Display': '{{template}}'
     }
   },
+  'pt-PT': {
+    'default': {
+      'Previous': 'Anterior',
+      'Next': 'Seguinte',
+      'From': 'De',
+      'To': 'até',
+      'Of': 'de',
+      'Results': 'resultados',
+      'Display': '{{template}}'
+    }
+  }
 };

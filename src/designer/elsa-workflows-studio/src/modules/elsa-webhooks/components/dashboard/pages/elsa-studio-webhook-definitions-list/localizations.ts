@@ -29,4 +29,10 @@ export const resources = {
       'CreateButton': 'Webhook erstellen'
     }
   },
+  'pt-PT': {
+    default: {
+      'Title': 'Definições Webhook',
+      'CreateButton': 'Criar Webhook'
+    }
+  }
 };

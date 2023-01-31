@@ -56,6 +56,19 @@ export const resources = {
       'workflow-instances': 'Ablaufinstanzen',
       'workflow-registry': 'Ablaufverzeichnis',
     }
+  },
+  'pt-PT': {
+    default: {
+      'WorkflowDefinitions': 'Definições de Fluxos',
+      'WorkflowInstances': 'Instâncias de fluxos',
+      'WorkflowRegistry': 'Registos de fluxos',
+      'WebhookDefinitions': 'Definições de Webhooks',
+    },
+    menuItems: {
+      'workflow-definitions': 'Definições de Fluxos',
+      'workflow-instances': 'Instâncias de fluxos',
+      'workflow-registry': 'Registos de fluxos',
+    }
   }
 };
 

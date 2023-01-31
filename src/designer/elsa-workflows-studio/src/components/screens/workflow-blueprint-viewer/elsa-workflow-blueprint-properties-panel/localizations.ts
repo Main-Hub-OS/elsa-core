@@ -64,4 +64,17 @@ export const resources = {
       'Properties': '{{name}} Eigenschaften'
     }
   },
+  'pt-PT': {
+    default: {
+      'Name': 'Nome',
+      'Untitled': 'Sem Título',
+      'Id': 'Id',
+      'Version': 'Última Versão',
+      'PublishedVersion': 'Versão Publicada',
+      'Status': 'Estado',
+      'Published': 'Publicado',
+      'Draft': 'Rascunho',
+      'Properties': 'Propriedades de {{name}}'
+    }
+  }
 };

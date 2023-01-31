@@ -44,4 +44,13 @@ export const resources = {
       'Export': 'Exportieren',
     }
   },
+  'pt-PT': {
+    'default': {
+      'Publish': 'Publicar',
+      'Publishing': 'A publicar',
+      'Unpublish': 'Cancelar publicação',
+      'Import': 'Importar',
+      'Export': 'Exportar',
+    }
+  }
 };

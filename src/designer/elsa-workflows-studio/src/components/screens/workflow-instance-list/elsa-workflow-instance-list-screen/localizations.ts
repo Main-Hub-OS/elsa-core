@@ -324,4 +324,86 @@ export const resources = {
       }
     }
   },
+  'pt-PT': {
+    'default': {
+      'Title': 'Instâncias de fluxo',
+      'Search': 'Procurar',
+      'Untitled': 'Sem Título',
+      'Table': {
+        'Id': 'ID',
+        'CorrelationId': 'ID de Correlação',
+        'Workflow': 'Fluxo',
+        'Version': 'Versão',
+        'InstanceName': 'Nome da Instância',
+        'Status': 'Estado',
+        'Created': 'Criado',
+        'Finished': 'Terminado',
+        'LastExecuted': 'Ultima Execução',
+        'Faulted': 'Falhou',
+        'ContextMenu': {
+          'View': 'Ver',
+          'Cancel': 'Cancelar',
+          'Delete': 'Apagar',
+          'Retry': 'Tentar novamente'
+        }
+      },
+      'CancelDialog': {
+        'Title': 'Cancelar Instância de fluxo',
+        'Message': 'Tem certeza que pretende cancelar esta Instância de fluxo?'
+      },
+      'DeleteDialog': {
+        'Title': 'Apagar Instância de fluxo',
+        'Message': 'Tem certeza que pretende apagar permanentemente esta Instância de fluxo?'
+      },
+      'BulkCancelDialog': {
+        'Title': 'Cancelar Instâncias de fluxo selecionadas',
+        'Message': 'Tem certeza que pretende cancelar todas as Instâncias de fluxo selecinadas?'
+      },
+      'BulkDeleteDialog': {
+        'Title': 'Apagar Instâncias de fluxo selecionadas',
+        'Message': 'Tem certeza que pretende apagar permanentemente todas as Instâncias de fluxo selecionadas?'
+      },
+      'BulkRetryDialog': {
+        'Title': 'Tentar novamente as Instâncias de fluxo selecionadas',
+        'Message': 'Tem certeza que pretende tentar novamente a execução de todas as Instâncias de fluxo selecionadas?'
+      },
+      'Pager': {
+        'Display': 'De {{Start}} até {{End}} de {{Results}} resultados'
+      },
+      'BulkActions': {
+        'Title': 'Ações em massa',
+        'Actions': {
+          'Cancel': 'Cancelar',
+          'Delete': 'Apagar',
+          'Retry': 'Tentar novamente'
+        }
+      },
+      'Filters': {
+        'Workflow': {
+          'Label': 'Fluxo',
+          'All': 'Todos'
+        },
+        'Status': {
+          'All': 'Todos',
+          'Label': 'Estados',
+          'Running': 'Em Execução',
+          'Idle': 'Parado',
+          'Suspended': 'Suspenso',
+          'Faulted': 'Falhou',
+          'Finished': 'Terminado',
+          'Cancelled': 'Cancelado'
+        },
+        'Sort': {
+          'Label': 'Ordenar',
+          'SelectedLabel': 'Ordenar por: {{Key}}',
+          'Finished': 'Terminado',
+          'LastExecuted': 'Última Execução',
+          'Started': 'Iniciado'
+        },
+        'PageSize': {
+          'SelectedLabel': 'Tamanho da página: {{Size}}',
+        }
+      }
+    }
+  }
 };

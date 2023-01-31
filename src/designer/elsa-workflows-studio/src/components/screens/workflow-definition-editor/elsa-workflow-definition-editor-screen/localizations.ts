@@ -94,4 +94,23 @@ export const resources = {
       }
     }
   },
+  'pt-PT': {
+    'default': {
+      'Publishing': 'A publicar...',
+      'Published': 'Publicado',
+      "ActivityContextMenu": {
+        "Edit": "Editar",
+        "Delete": "Apagar",
+        "DeleteSelected": "Apagar selecionados"
+      },
+      "ConnectionContextMenu": {
+        "Paste": "Colar",
+      },
+      'Restart': 'Reiniciar',
+      'DeleteConfirmationModel': {
+        'Title': 'Apagar fluxo',
+        'Message': 'Tem certeza que pretende apagar permanentemente este fluxo, incluindo todas as suas instâncias?'
+      }
+    }
+  }
 };

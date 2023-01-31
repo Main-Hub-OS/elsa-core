@@ -29,4 +29,10 @@ export const resources = {
       'Tagline': 'Benutze das Dashboard um alles zu steuern'
     }
   },
+  'pt-PT': {
+    'default': {
+      'Welcome': 'Bem vindo ao {{title}}',
+      'Tagline': 'Use o painel de controlo para gerenciar tudo.'
+    }
+  }
 };

@@ -29,4 +29,10 @@ export const resources = {
       'No': 'Nein',
     }
   },
+  'pt-PT': {
+    'default': {
+      'Yes': 'Sim',
+      'No': 'Não'
+    }
+  }
 };

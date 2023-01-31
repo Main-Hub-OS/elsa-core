@@ -18,5 +18,15 @@ export const resources = {
       'BottomTop': 'Von Unten nach Oben',
       'RightLeft': 'Von Rechts nach Links',
     }
+  },
+  'pt-PT': {
+    default: {
+      'workflowLayoutName': 'Layout do fluxo',
+      'workflowLayoutDescription': 'Determina a direção em que as atividades são dispostas.',
+      'TopBottom': 'Cima para Baixo',
+      'LeftRight': 'Esquerda para Direita',
+      'BottomTop': 'Baixo para Cima',
+      'RightLeft': 'Direita para Esquerda',
+    }
   }
 };

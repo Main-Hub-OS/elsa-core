@@ -23,5 +23,10 @@ export const resources = {
     default: {
       'Title': 'Ablaufinstanzen'
     }
+  },
+  'pt-PT': {
+    default: {
+      'Title': 'Instâncias de fluxos'
+    }
   }
 };

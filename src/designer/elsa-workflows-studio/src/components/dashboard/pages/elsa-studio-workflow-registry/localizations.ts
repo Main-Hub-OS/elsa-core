@@ -29,4 +29,10 @@ export const resources = {
       'CreateButton': 'Ablauf erstellen'
     }
   },
+  'pt-PT': {
+    default: {
+      'Title': 'Registo de fluxos',
+      'CreateButton': 'Criar fluxo'
+    }
+  }
 };
